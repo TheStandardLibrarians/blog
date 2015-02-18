@@ -22,6 +22,7 @@ the text for the Adventures and Objective. We started pseudo coding it.
 #### GOAL: Be able to read all of our data from one yaml file and call it dynamically from each.
 
 ##### Steps: 
+
 + create yaml file with proper headings, 
 + write a helper which defines a method that we can call where the arguement is the file name of the yaml file. 
 
